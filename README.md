@@ -1,1 +1,1 @@
-# CSCE240
+Here you can find my work from CSCE240: Advanced Programming Techniques. (C and C++)
